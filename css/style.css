@@ -9,6 +9,7 @@
 /* global style */
 html{
     font-size: 10px;
+    scroll-behavior: smooth;
 }
 body{
     font-family: 'Open Sans', sans-serif;
